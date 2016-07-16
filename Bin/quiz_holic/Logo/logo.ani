@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Animation>
+   <LayerInfo Layer = "0" TextureName = "..\Common\back_mask_white.png" LoopCount = "0" Effect = "0">
+    <FrameInfo Frame = "0" Rotate = "0"
+      CutLeft = "0" CutTop = "0" CutRight = "16" CutBottom = "16"
+      Left = "0" Top = "0" Right = "1024" Bottom = "768" 
+      R = "255" G = "255" B = "255" A = "255"/>      
+
+    <FrameInfo Frame = "160"  Rotate = "0"
+      CutLeft = "0" CutTop = "0" CutRight = "16" CutBottom = "16"
+      Left = "0" Top = "0" Right = "1024" Bottom = "768" 
+      R = "255" G = "255" B = "255" A = "0"/>
+
+   </LayerInfo>
+  
+   <LayerInfo Layer = "1" TextureName = "Logo.png" LoopCount = "0" Effect = "0">
+    <FrameInfo Frame = "0"  Rotate = "0"
+      CutLeft = "0" CutTop = "0" CutRight = "379" CutBottom = "54"
+      Left = "320" Top = "350" Right = "379" Bottom = "54" 
+      R = "255" G = "255" B = "255" A = "255"/>
+      
+    <FrameInfo Frame = "80"  Rotate = "180"
+      CutLeft = "0" CutTop = "0" CutRight = "379" CutBottom = "54"
+      Left = "320" Top = "350" Right = "379" Bottom = "54" 
+      R = "255" G = "255" B = "255" A = "0"/>
+      
+    <FrameInfo Frame = "160"  Rotate = "360"
+      CutLeft = "0" CutTop = "0" CutRight = "379" CutBottom = "54"
+      Left = "320" Top = "350" Right = "379" Bottom = "54" 
+      R = "255" G = "255" B = "255" A = "255"/>
+      
+  </LayerInfo>  
+
+</Animation>

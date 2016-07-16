@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<QuizList>
+  <Category MainCategory="축구" SubCategory="유럽 리그" Level="1">
+    <Quiz Question="다음 중 프리미어 리그에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="맨체스터 유나이티드" Answer2="FC 서울" Answer3="인천 유나이티드" Answer4="대전 시티즌" />
+    <Quiz Question="다음 중 프리메라 리가에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="FC 바르셀로나" Answer2="수원 삼성" Answer3="전남 드래곤즈" Answer4="포항 스틸러스" />
+    <Quiz Question="다음 중 세리에A 에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="유벤투스" Answer2="요코하마 마리노스" Answer3="다롄스더" Answer4="포항 스틸러스" />
+    <Quiz Question="다음 중 분데스 리가에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="바이에른 뮌헨" Answer2="도쿄 베르디" Answer3="알 이티하드" Answer4="포항 스틸러스" />
+  </Category>
+  <Category MainCategory="축구" SubCategory="유럽 리그" Level="2">
+    <Quiz Question="다음 중 분데스 리가에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="바이어 레버쿠젠" Answer2="도쿄 베르디" Answer3="알 이티하드" Answer4="포항 스틸러스" />
+    <Quiz Question="다음 중 프리미어 리그에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="토트넘 핫 스퍼" Answer2="던디 유나이티드" Answer3="인천 유나이티드" Answer4="글래스고우 셀틱" />
+    <Quiz Question="다음 중 프리메라 리가에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="비야레알" Answer2="AS 로마" Answer3="전남 드래곤즈" Answer4="포항 스틸러스" />
+    <Quiz Question="다음 중 세리에A 에 속한 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="라치오" Answer2="레알 베티스" Answer3="다롄스더" Answer4="포항 스틸러스" />
+  </Category>
+  <Category MainCategory="축구" SubCategory="유럽 리그" Level="3">
+    <Quiz Question="다음 중 리버풀을 거쳐가지 않은 선수는?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="로빈 반 페르시" Answer2="마이클 오웬" Answer3="부데바인 젠덴" Answer4="스티븐 제라드"></Quiz>
+    <Quiz Question="다음 중 아스날을 거쳐가지 않은 선수는?" Date="2010-04-28" ImageFile="" SoundFile="" Correct="1" Answer1="프랑크 데부르" Answer2="부데바인 젠덴" Answer3="마크 오베르마스" Answer4="데니스 베르캄프" />
+    <Quiz Question="데이비드 베컴 선수가 뛰었던 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="레알 마드리드" Answer2="레알 베티스" Answer3="아틀레티코 마드리드" Answer4="레알 소시에다드" />
+  </Category>
+  <Category MainCategory="축구" SubCategory="유럽 리그" Level="4">
+    <Quiz Question="박지성 선수가 맨체스터 유나이티드에 입단한 해는?" Date="2010-04-17" ImageFile="" SoundFile="" Correct="1" Answer1="2005년" Answer2="2009년" Answer3="2003년" Answer4="2007년" />
+    <Quiz Question="이청용 선수가 볼튼 원더러스에 입단한 해는?" Date="2010-04-17" ImageFile="" SoundFile="" Correct="1" Answer1="2009년" Answer2="2005년" Answer3="2003년" Answer4="2007년" />
+    <Quiz Question="이을용 선수가 뛰었던 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="트라브존 스포르" Answer2="페네르바체" Answer3="갈라타사라이" Answer4="베식타스" />
+    <Quiz Question="호베르투 카를로스 선수가 뛰었던 팀은?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="페네르바체" Answer2="트라브존 스포르" Answer3="갈라타사라이" Answer4="베식타스" />
+  </Category>
+  <Category MainCategory="축구" SubCategory="유럽 리그" Level="5">
+    <Quiz Question="다음 중 프리미어 리거 득점왕이 아니었던 선수는?" Date="2010-04-28" ImageFile="" SoundFile="" Correct="1" Answer1="데니스 베르캄프" Answer2="티에리 앙리" Answer3="루드 반 니스텔루이" Answer4="앨런 시어러" />
+  </Category>
+  <Category MainCategory="축구" SubCategory="월드컵" Level="1">
+    <Quiz Question="크리스티아노 호나우두는 어느 국가 대표 선수인가?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="포르투갈" Answer2="사우디 아라비아" Answer3="한국" Answer4="일본" />
+    <Quiz Question="리오넬 메시는 어느 국가 대표 선수인가?" Date="2010-05-02" ImageFile="" SoundFile="" Correct="1" Answer1="아르헨티나" Answer2="태국" Answer3="지온 공국" Answer4="미국" />
+  </Category>
+</QuizList>

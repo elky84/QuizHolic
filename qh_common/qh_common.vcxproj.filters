@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Character">
+      <UniqueIdentifier>{e303d359-d338-4ad3-814c-35d22472abdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuizGame">
+      <UniqueIdentifier>{3b22dc0f-e4f9-4ba9-82cd-0d86ec1ac5c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="stdafx">
+      <UniqueIdentifier>{2211c751-cfd0-4eb7-a08c-59ecfe858420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuizGame\Quiz">
+      <UniqueIdentifier>{574ea216-e3b9-4eb8-95f0-0c817bfd7a48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Character.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterInterface.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterManager.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Mc.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.cpp">
+      <Filter>QuizGame\Quiz</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizManager.cpp">
+      <Filter>QuizGame\Quiz</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizGame.cpp">
+      <Filter>QuizGame</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedQuiz.cpp">
+      <Filter>QuizGame</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>stdafx</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterInterface.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterManager.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Mc.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz.h">
+      <Filter>QuizGame\Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizManager.h">
+      <Filter>QuizGame\Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizGame.h">
+      <Filter>QuizGame</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedQuiz.h">
+      <Filter>QuizGame</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>stdafx</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+
+<CharacterList>
+  <Character Idx = "1" Name = "가츠" MiniTexture = "gats.jpg" BigTexture = "gats_Big.jpg"/>
+  <Character Idx = "2" Name = "그리피스" MiniTexture = "griffith.jpg" BigTexture = "griffith_Big.jpg"/>
+  <Character Idx = "3" Name = "타츠미" MiniTexture = "tatsumi.jpg" BigTexture = "tatsumi_Big.jpg"/>
+  <Character Idx = "4" Name = "지노" MiniTexture = "gino.jpg" BigTexture = "gino_Big.jpg"/>
+</CharacterList>
