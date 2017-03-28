@@ -35,7 +35,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>stdafx</Filter>
     </ClCompile>
-    <ClCompile Include="QuizHolic.cpp">
+    <ClCompile Include="quiz_holic.cpp">
       <Filter>Main</Filter>
     </ClCompile>
   </ItemGroup>
@@ -63,12 +63,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Res\QuizHolic.ico">
+    <None Include="Res\quiz_holic.ico">
       <Filter>리소스 파일</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="QuizHolic.rc">
+    <ResourceCompile Include="quiz_holic.rc">
       <Filter>리소스 파일</Filter>
     </ResourceCompile>
   </ItemGroup>

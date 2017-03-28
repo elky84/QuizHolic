@@ -10,9 +10,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quiz_holic", "quiz_holic\qu
 		{9EE26FBD-F027-43E5-ADFB-DCC3D97E6B58} = {9EE26FBD-F027-43E5-ADFB-DCC3D97E6B58}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "light-view", "..\light-view\Src\light-view.vcxproj", "{9EE26FBD-F027-43E5-ADFB-DCC3D97E6B58}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "light-view", "..\light\light-view\Src\light-view.vcxproj", "{9EE26FBD-F027-43E5-ADFB-DCC3D97E6B58}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "light", "..\light\Src\light.vcxproj", "{1F0BAD05-FD7A-4ED2-AB46-DFDC00C1A61C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "light", "..\light\light\Src\light.vcxproj", "{1F0BAD05-FD7A-4ED2-AB46-DFDC00C1A61C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qh_common", "qh_common\qh_common.vcxproj", "{8DD5747F-FB3F-4766-9C62-53F88471B873}"
 EndProject
