@@ -59,7 +59,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <Optimization>Disabled</Optimization>
-      <AdditionalIncludeDirectories>..\..\light\Dependencies\boost_1_63; ..\..\light\Dependencies\boost_1_63; ..\..\light\light-view\Include; ..\..\light\Dependencies\Dx\Include; ..\..\light\Dependencies\fmod\Inc ; ..\..\light\Dependencies\freetype2\Include; ..\..\light\light\Include ; %(AdditionalIncludeDirectories); ..\qh_common; </AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\light\Dependencies\boost_1_64_0; ..\..\light\Dependencies\boost_1_64_0; ..\..\light\light-view\Include; ..\..\light\Dependencies\Dx\Include; ..\..\light\Dependencies\fmod\Inc ; ..\..\light\Dependencies\freetype2\Include; ..\..\light\light\Include ; %(AdditionalIncludeDirectories); ..\qh_common; </AdditionalIncludeDirectories>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <MinimalRebuild>true</MinimalRebuild>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
@@ -72,7 +72,7 @@
     <Link>
       <AdditionalDependencies>light-view_D.lib;light_D.lib;%(AdditionalDependencies); qh_common_D.lib;</AdditionalDependencies>
       <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
-      <AdditionalLibraryDirectories>..\..\light\Dependencies\boost_1_63\lib; ..\..\light\Dependencies\Dx\Lib\x86  ; ..\..\light\light-view\Lib; ..\..\light\Dependencies\boost_1_63\Lib;  ..\..\light\Dependencies\fmod\Lib; ..\..\light\Dependencies\freetype2\Lib; ..\..\light\light\Lib; ..\Lib;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\..\light\Dependencies\boost_1_64_0\lib; ..\..\light\Dependencies\Dx\Lib\x86  ; ..\..\light\light-view\Lib; ..\..\light\Dependencies\boost_1_64_0\Lib;  ..\..\light\Dependencies\fmod\Lib; ..\..\light\Dependencies\freetype2\Lib; ..\..\light\light\Lib; ..\Lib;</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>$(OutDir)$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
@@ -82,7 +82,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>..\..\light\Dependencies\boost_1_63; ..\..\light\Dependencies\boost_1_63; ..\..\light\light-view\Include; ..\..\light\Dependencies\Dx\Include; ..\..\light\Dependencies\fmod\Inc ; ..\..\light\Dependencies\freetype2\Include; ..\..\light\light\Include ; %(AdditionalIncludeDirectories); ..\qh_common; </AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\light\Dependencies\boost_1_64_0; ..\..\light\Dependencies\boost_1_64_0; ..\..\light\light-view\Include; ..\..\light\Dependencies\Dx\Include; ..\..\light\Dependencies\fmod\Inc ; ..\..\light\Dependencies\freetype2\Include; ..\..\light\light\Include ; %(AdditionalIncludeDirectories); ..\qh_common; </AdditionalIncludeDirectories>
       <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <PrecompiledHeader>Use</PrecompiledHeader>
@@ -93,7 +93,7 @@
     <Link>
       <AdditionalDependencies>light-view.lib;light.lib;%(AdditionalDependencies); qh_common.lib;</AdditionalDependencies>
       <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
-      <AdditionalLibraryDirectories>..\..\light\Dependencies\boost_1_63\lib; ..\..\light\Dependencies\Dx\Lib\x86  ; ..\..\light\light-view\Lib; ..\..\light\Dependencies\boost_1_63\Lib;  ..\..\light\Dependencies\fmod\Lib; ..\..\light\Dependencies\freetype2\Lib; ..\..\light\light\Lib; ..\Lib;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\..\light\Dependencies\boost_1_64_0\lib; ..\..\light\Dependencies\Dx\Lib\x86  ; ..\..\light\light-view\Lib; ..\..\light\Dependencies\boost_1_64_0\Lib;  ..\..\light\Dependencies\fmod\Lib; ..\..\light\Dependencies\freetype2\Lib; ..\..\light\light\Lib; ..\Lib;</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>$(OutDir)$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
