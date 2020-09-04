@@ -12,6 +12,6 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/elky84/quiz_holic.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elky84/quiz_holic.svg)
 
-# quiz_holic
+# quiz-holic
 
 win32 quiz game sample.
