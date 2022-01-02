@@ -15,3 +15,5 @@
 # QuizHolic
 
 win32 quiz game sample.
+
+![QuizHolic](./QuizHolic.png)
